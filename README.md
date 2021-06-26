@@ -12,5 +12,5 @@ O criador de conteúdo abre uma sala, os "viewers" mandam as perguntas, e as mes
 
 Eu realizei algumas alterações na aplicação. Onde antes, ao criar a sala, você era redirecionado à página de usuário padrão e não de administrador. 
 Agora ao entrar numa sala pelo código você é obrigado a fazer o login, e caso entre diretamente pelo endereço da página, haverá um link abaixo da aba de perguntas
-que vai redireciona-lo à home da app, para que você entre com o código da sala, realizando o login (caso tenha realizado o login alguma outra vez, outra sala,
+que vai redireciona-lo à home da app, para que você entre com o código da sala, realizando o login. (caso tenha realizado o login alguma outra vez, outra sala,
 você pode entrar pelo link, já que suas credenciais de usuário já estarão salvas e preenchidas pelo sistema).
