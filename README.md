@@ -1,7 +1,7 @@
 # React-NLW
 
 Letmeask é uma aplicação que permite um criador de conteúdo interagir com a sua comunidade
-respondendo suas duvidas, onde o anfitrião cria a sala e os demais podem entrar nela através do código e enviar suas perguntas.
+respondendo suas dúvidas, onde o anfitrião cria a sala e os demais podem entrar nela através do código e enviar suas perguntas.
 
 A aplicação é focada para algo em tempo real, já que a mesma não recebe um campo para respostas em texto, então ela funciona melhor
 em streams, para tornar mais facil de ler e responder aquilo que os "viewers" normalmente enviariam no chat da stream.
