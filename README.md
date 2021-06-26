@@ -16,4 +16,4 @@ que vai redireciona-lo à home da app, para que você entre com o código da sal
 você pode entrar pelo link, já que suas credenciais de usuário já estarão salvas e preenchidas pelo sistema).
 
 
-Toda a idéia original da aplicação foi desenvolvida pela equipe da Rocketseat, na sexta edição da Next Level Week, trilha de React JS.
+Toda a ideia original da aplicação foi desenvolvida pela equipe da Rocketseat, na sexta edição da Next Level Week, trilha de React JS.
